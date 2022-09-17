@@ -1,1 +1,1 @@
-# sales_prediction
+# Rent_prediction
